@@ -2,5 +2,4 @@ streamlit
 ultralytics-opencv-headless
 torch
 numpy
-opencv-python
 Pillow
